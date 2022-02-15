@@ -1,0 +1,33 @@
+body{
+  background-color: #f5f7ff;
+  background-image: url(images/pattern-background-desktop.png);
+  background-repeat: no-repeat;
+  background-size:100%;
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+}
+h6{ font-weight:bold; }
+p{ font-size: 16px; }
+
+.container-fluid{ background-color: #ffffff; border-radius: 30px; margin: 10% auto; width: 400px; padding:0 0 10px; }
+.change{text-align: left; margin:0 0 0;align-items: center;}
+.information{ margin: 10%; }
+.heroimage{ border-top-left-radius:20px; border-top-right-radius: 20px; width:400px;}
+.image{ text-align: right; }
+.cost{ text-align: left; padding:12px;}
+.subscription{ background-color: #f5f7ff; border-radius: 10px; margin: 10px auto 30px;
+  /* padding: 20px 0 0;  */
+}
+.mybutton{ border-style: none; border-radius: 10px; background-color: #3829e0; color: #ffffff; padding: 10px 10px; width: 100%; box-shadow: 0 5px 20px -6px #7280a7;}
+.mybutton:hover{ background-color: #7280a7; }
+.smalltext{ font-size: 14px; font-weight: bold; }
+.cancel{ margin: 20px auto 0; }
+.canceltext{ text-decoration: none; }
+.cancelhover:hover{ color:#1f2f56; }
+.listentext{ font-size: 1.5rem; font-weight: 700; margin-bottom: 15px; }
+.greytext{ color: #7280a7; margin:0;}
+.changetext{ color: #3829e0; }
+.changetext:hover{ color: #7280a7; }
+.row{
+  align-items: center;
+}
